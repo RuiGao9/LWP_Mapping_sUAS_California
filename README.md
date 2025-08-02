@@ -11,7 +11,7 @@ This reporitory supports a peer-reviewed journal paper (Integrating Time-Series 
 <sup>3</sup>Valley Institute for Sustainable Technology & Agriculture, University of California, Merced, CA 95343, USA<br>
 
 ## Citation 
-If you use this repository in your work, please cite following DOIs:
+If you use this repository in your work, please cite following DOIs:<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15885589.svg)](https://doi.org/10.5281/zenodo.15885589)
 
 **BibTeX:**
