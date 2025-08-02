@@ -18,12 +18,12 @@ If you use this repository in your work, please cite following DOIs:<br>
 **BibTeX:**
 ```bibtex
 @misc{gao2025lwpmap,
-  author       = {Rui Gao, Alfonso Torres-Rua},
-  title        = {A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach},
+  author       = {Rui Gao, Mimar, Alfonso Torres-Rua},
+  title        = {Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring},
   year         = {2025},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.15885589},
-  url          = {https://doi.org/10.5281/zenodo.15885589}
+  publisher    = {Irrigation Science},
+  doi          = {10.XXXXXXX},
+  url          = {https://doi.org/10.XXXXXXX}
 }
 ```
 ```bibtex
