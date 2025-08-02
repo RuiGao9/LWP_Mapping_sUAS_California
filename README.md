@@ -17,7 +17,7 @@ If you use this repository in your work, please cite following DOIs:<br>
 
 **BibTeX:**
 ```bibtex
-@misc{gao2025lwpmap,
+@misc{gao2025lwpis,
   author       = {Rui Gao, Mimar, Alfonso Torres-Rua},
   title        = {Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring},
   year         = {2025},
