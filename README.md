@@ -12,7 +12,19 @@ This reporitory supports a peer-reviewed journal paper (Integrating Time-Series 
 
 ## Citation 
 If you use this repository in your work, please cite following DOIs:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15885589.svg)](https://doi.org/10.5281/zenodo.15885589)
 
+**BibTeX:**
+```bibtex
+@misc{gao2025lwpmap,
+  author       = {Rui Gao, Alfonso Torres-Rua},
+  title        = {A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15885589},
+  url          = {https://doi.org/10.5281/zenodo.15885589}
+}
+```
 
 ## Contact info
 Rui.Ray.Gao@Gmail.com<br>
