@@ -12,7 +12,7 @@ This reporitory supports a peer-reviewed journal paper (Integrating Time-Series 
 
 ## Citation 
 If you use this repository in your work, please cite following DOIs:<br>
-[![DOI](https://link.springer.com/article/10.1007/s00271-022-00776-0.svg)](https://doi.org/10.1007/s00271-022-00776-0)
+[![DOI](https://zenodo.org/badge/DOI/10.1007/s00271-022-00776-0.svg)](https://doi.org/10.1007/s00271-022-00776-0)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15885589.svg)](https://doi.org/10.5281/zenodo.15885589)
 
 **BibTeX:**
