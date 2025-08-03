@@ -4,7 +4,7 @@
 This reporitory supports a peer-reviewed journal paper (Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
 In this repository, we provided:
 1. `INput_data`, a folder contains demo data. `Demo_INput_TIR.tif` is the temperature image (in Celsius) obtained from the AggieAir sUAS. `Demo_Input_VNIR.tif` is the multi-spectral image (red, green, blue, and near-infrared).
-2. `main_program.ipynb` is the main program, which is a simplifed model from the research *Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring*.
+2. `main_program.ipynb` is the main program, which is a simplifed model from the research **Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring**.
 3. `xgb_tt.pkl` is the trained machine learning model (using the XGBoost approach). The required inputs are listed in the research paper, and we also list them below.
    - , air temperature in Celsius at 2 m above ground level.
    - , canopy temperature in Celsius.
