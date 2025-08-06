@@ -35,7 +35,7 @@ If you use this repository in your work, please cite following DOIs:<br>
   url          = {https://doi.org/10.XXXXXXX}
 }
 ```
-```
+```bibtex
 @misc{gao2025lwpmap,
   author       = {Rui Gao, Alfonso Torres-Rua, Maria Mar Alsina},
   title        = {A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach},
@@ -45,7 +45,7 @@ If you use this repository in your work, please cite following DOIs:<br>
   url          = {https://doi.org/10.5281/zenodo.15885589}
 }
 ```
-```
+```bibtex
 @misc{gao2025lwpfeature,
   author       = {Rui Gao, Alfonso Torres-Rua},
   title        = {Feature Extraction From the High-resolution AggieAir Images for Leaf Water Potential Estimation in California Vineyards},
