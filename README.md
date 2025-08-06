@@ -12,10 +12,11 @@ In this repository, we provided:
 
 ## A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach
 
-<p align="center">Rui Gao<sup>1,2,3</sup>, Alfonso Torres-Rua<sup>1</sup></p>
+<p align="center">Rui Gao<sup>1,2,3</sup>, Alfonso Torres-Rua<sup>1</sup>, Maria Mar Alsina<sup>4</sup></p>
 <sup>1</sup>Department of Civil and Environmental Engineering, Utah State University, Logan, UT 84321, USA<br>
 <sup>2</sup>Department of Civil and Environmental Engineering, University of California, Merced, CA 95343, USA<br>
 <sup>3</sup>Valley Institute for Sustainable Technology & Agriculture, University of California, Merced, CA 95343, USA<br>
+<sup>4</sup>Institute of Research, Technology, Food & Agriculture (IRTA), Mas Badia. Tallada d’Empordà, 17134, Spain<br>
 
 ## Citation 
 If you use this repository in your work, please cite following DOIs:<br>
