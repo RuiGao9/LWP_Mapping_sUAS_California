@@ -45,6 +45,7 @@ If you use this repository in your work, please cite following DOIs:<br>
   url          = {https://doi.org/10.5281/zenodo.15885589}
 }
 ```
+```
 @misc{gao2025lwpfeature,
   author       = {Rui Gao, Alfonso Torres-Rua},
   title        = {Feature Extraction From the High-resolution AggieAir Images for Leaf Water Potential Estimation in California Vineyards},
