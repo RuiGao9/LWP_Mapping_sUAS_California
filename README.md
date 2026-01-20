@@ -19,10 +19,11 @@ In this repository, we provided:
 <sup>4</sup>Institute of Research, Technology, Food & Agriculture (IRTA), Mas Badia. Tallada d’Empordà, 17134, Spain<br>
 
 ## Citation 
-If you use this repository in your work, please cite following DOIs:<br>
-[![DOI](https://zenodo.org/badge/DOI/10.1007/s00271-022-00776-0.svg)](https://doi.org/10.1007/s00271-022-00776-0)<br>
+If you use this repository in your work, please consider following reference/DOIs:<br>
+[![DOI](https://zenodo.org/badge/DOI/10.21203/rs.3.rs-7952103/v1.svg)](https://doi.org/10.21203/rs.3.rs-7952103/v1)<br>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16730652.svg)](https://doi.org/10.5281/zenodo.16730652)<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15885589.svg)](https://doi.org/10.5281/zenodo.15885589)<br>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16730652.svg)](https://doi.org/10.5281/zenodo.16730652)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18305013.svg)](https://doi.org/10.5281/zenodo.18305013)
 
 **BibTeX:**
 ```bibtex
@@ -31,8 +32,18 @@ If you use this repository in your work, please cite following DOIs:<br>
   title        = {Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring},
   year         = {2025},
   publisher    = {Irrigation Science},
-  doi          = {10.XXXXXXX},
-  url          = {https://doi.org/10.XXXXXXX}
+  doi          = {10.21203/rs.3.rs-7952103/v1},
+  url          = {https://doi.org/10.21203/rs.3.rs-7952103/v1}
+}
+```
+```bibtex
+@misc{gao2025lwpfeature,
+  author       = {Rui Gao, Alfonso Torres-Rua},
+  title        = {Feature Extraction From the High-resolution AggieAir Images for Leaf Water Potential Estimation in California Vineyards},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.16730652},
+  url          = {https://doi.org/10.5281/zenodo.16730652}
 }
 ```
 ```bibtex
@@ -46,13 +57,13 @@ If you use this repository in your work, please cite following DOIs:<br>
 }
 ```
 ```bibtex
-@misc{gao2025lwpfeature,
-  author       = {Rui Gao, Alfonso Torres-Rua},
-  title        = {Feature Extraction From the High-resolution AggieAir Images for Leaf Water Potential Estimation in California Vineyards},
-  year         = {2025},
+@misc{gao2026windex,
+  author       = {Rui Gao, Alfonso Torres-Rua, Mohammad Safeeq, and Joshua H. Viers},
+  title        = {A Python Tool for Winkler Index Calculation based on Hourly Air Temperature Records},
+  year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.16730652},
-  url          = {https://doi.org/10.5281/zenodo.16730652}
+  doi          = {10.5281/zenodo.18305013},
+  url          = {https://doi.org/10.5281/zenodo.18305013}
 }
 ```
 
