@@ -20,7 +20,7 @@ In this repository, we provided:
 
 ## Citation 
 If you use this repository in your work, please consider following reference/DOIs:<br>
-[![DOI](https://zenodo.org/badge/DOI/10.21203/rs.3.rs-7952103/v1.svg)](https://doi.org/10.21203/rs.3.rs-7952103/v1)<br>
+[![DOI](https://zenodo.org/badge/DOI/10.1007/s00271-026-01102-8.svg)](https://doi.org/10.1007/s00271-026-01102-8)<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16730652.svg)](https://doi.org/10.5281/zenodo.16730652)<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15885589.svg)](https://doi.org/10.5281/zenodo.15885589)<br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18305013.svg)](https://doi.org/10.5281/zenodo.18305013)
