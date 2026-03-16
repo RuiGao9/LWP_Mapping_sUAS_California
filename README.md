@@ -1,13 +1,13 @@
 [![DOI](https://zenodo.org/badge/1019784935.svg)](https://doi.org/10.5281/zenodo.15885589)
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.LWP_Mapping_sUAS_California)<br>
 # LWP_Mapping_sUAS_California
-This repository and another one ([LWP_Vineyard_Features](https://github.com/RuiGao9/LWP_Vineyard_Features)) support a peer-reviewed journal paper (Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
+This repository and another one ([LWP_Vineyard_Features](https://github.com/RuiGao9/LWP_Vineyard_Features)) support a peer-reviewed journal paper published in *Irrigation Science* ([A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data](https://link.springer.com/article/10.1007/s00271-026-01102-8#citeas)) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
 In this repository, we provided:
 1. `Input_data`, a folder contains demo data. `Demo_INput_TIR.tif` is the temperature image (in Celsius) obtained from the AggieAir sUAS. `Demo_Input_VNIR.tif` is the multi-spectral image (red, green, blue, and near-infrared).
-2. `main_program.ipynb` is the main program, which is a simplifed model from the research **Integrating Time-Series Meteorological Data and sUAS Information into a Machine Learning Framework for California Vineyard Water Stress Monitoring**.
+2. `main_program.ipynb` is the main program, which is a simplifed model from the research **A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data**.
 3. `xgb_tt.pkl` is the trained machine learning model (using the XGBoost approach). The required inputs are listed in the research paper, and we also list them below.
-   - , air temperature in Celsius at 2 m above ground level.
-   - , canopy temperature in Celsius.
+   - $T_a$, air temperature in Celsius at 2 m above ground level.
+   - $T_c$, canopy temperature in Celsius.
 
 
 ## A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach
