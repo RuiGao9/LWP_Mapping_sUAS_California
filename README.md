@@ -18,10 +18,6 @@ Gao, R., & Torres-Rua, A. (2025). Feature Extraction from the High-resolution Ag
 
 ## Citation 
 If you use this repository in your work, please consider following reference/DOIs:<br>
-[![DOI](https://zenodo.org/badge/DOI/10.1007/s00271-026-01102-8.svg)](https://doi.org/10.1007/s00271-026-01102-8)<br>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16730652.svg)](https://doi.org/10.5281/zenodo.16730652)<br>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15885589.svg)](https://doi.org/10.5281/zenodo.15885589)<br>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18305013.svg)](https://doi.org/10.5281/zenodo.18305013)
 
 **BibTeX:**
 ```bibtex
@@ -31,19 +27,10 @@ If you use this repository in your work, please consider following reference/DOI
   year         = {2026},
   publisher    = {Irrigation Science},
   doi          = {https://doi.org/10.1007/s00271-026-01102-8},
-  url          = {https://link.springer.com/article/10.1007/s00271-026-01102-8#citeas}
+  url          = {https://link.springer.com/article/10.1007/s00271-026-01102-8}
 }
 ```
-```bibtex
-@misc{gao2025lwpfeature,
-  author       = {Rui Gao, Alfonso Torres-Rua},
-  title        = {Feature Extraction From the High-resolution AggieAir Images for Leaf Water Potential Estimation in California Vineyards},
-  year         = {2025},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.16730652},
-  url          = {https://doi.org/10.5281/zenodo.16730652}
-}
-```
+
 ```bibtex
 @misc{gao2025lwpmap,
   author       = {Rui Gao, Alfonso Torres-Rua, Maria Mar Alsina},
@@ -52,16 +39,6 @@ If you use this repository in your work, please consider following reference/DOI
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.15885589},
   url          = {https://doi.org/10.5281/zenodo.15885589}
-}
-```
-```bibtex
-@misc{gao2026windex,
-  author       = {Rui Gao, Alfonso Torres-Rua, Mohammad Safeeq, and Joshua H. Viers},
-  title        = {A Python Tool for Winkler Index Calculation based on Hourly Air Temperature Records},
-  year         = {2026},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18305013},
-  url          = {https://doi.org/10.5281/zenodo.18305013}
 }
 ```
 
