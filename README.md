@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/1019784935.svg)](https://doi.org/10.5281/zenodo.15885589)
-![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.LWP_Mapping_sUAS_California-123)<br>
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.LWP_Mapping_sUAS_California)<br>
 
 ## A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach
 This repository and another one ([LWP_Vineyard_Features](https://github.com/RuiGao9/LWP_Vineyard_Features)) support a peer-reviewed journal paper published in *Irrigation Science* ([A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data](https://link.springer.com/article/10.1007/s00271-026-01102-8#citeas)) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
