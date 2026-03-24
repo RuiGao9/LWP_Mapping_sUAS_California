@@ -1,22 +1,20 @@
 [![DOI](https://zenodo.org/badge/1019784935.svg)](https://doi.org/10.5281/zenodo.15885589)
-![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.LWP_Mapping_sUAS_California)<br>
-# LWP_Mapping_sUAS_California
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=RuiGao9.LWP_Mapping_sUAS_California-123)<br>
+
+## A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach
 This repository and another one ([LWP_Vineyard_Features](https://github.com/RuiGao9/LWP_Vineyard_Features)) support a peer-reviewed journal paper published in *Irrigation Science* ([A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data](https://link.springer.com/article/10.1007/s00271-026-01102-8#citeas)) showing a simplified model for California vineyard leaf water potential mapping. A subtitle or the main title is below.<br>
 In this repository, we provided:
-1. `Input_data`, a folder contains demo data. `Demo_INput_TIR.tif` is the temperature image (in Celsius) obtained from the AggieAir sUAS. `Demo_Input_VNIR.tif` is the multi-spectral image (red, green, blue, and near-infrared).
-2. `main_program.ipynb` is the main program, which is a simplifed model from the research **A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data**.
+1. `Input_data`, a folder that contains demo data. `Demo_INput_TIR.tif` is the temperature image (in Celsius) obtained from the AggieAir sUAS. `Demo_Input_VNIR.tif` is the multi-spectral image (red, green, blue, and near-infrared).
+2. `main_program.ipynb` is the main program, which is a simplified model from the research **A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data**.
 3. `xgb_tt.pkl` is the trained machine learning model (using the XGBoost approach). The required inputs are listed in the research paper, and we also list them below.
    - $T_a$, air temperature in Celsius at 2 m above ground level.
    - $T_c$, canopy temperature in Celsius.
 
 
-## A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach
-
-<p align="center">Rui Gao<sup>1,2,3</sup>, Alfonso Torres-Rua<sup>1</sup>, Maria Mar Alsina<sup>4</sup></p>
-<sup>1</sup>Department of Civil and Environmental Engineering, Utah State University, Logan, UT 84321, USA<br>
-<sup>2</sup>Department of Civil and Environmental Engineering, University of California, Merced, CA 95343, USA<br>
-<sup>3</sup>Valley Institute for Sustainable Technology & Agriculture, University of California, Merced, CA 95343, USA<br>
-<sup>4</sup>Institute of Research, Technology, Food & Agriculture (IRTA), Mas Badia. Tallada d’Empordà, 17134, Spain<br>
+## Reference
+Gao, R., Alsina, M. M., Torres-Rua, A. F., Hipps, L., Kustas, W. P., Anderson, M., ... & Dokoozlian, N. (2026). A machine learning framework for California vineyard water status monitoring using sUAS Imagery and short-term meteorological data. Irrigation Science, 44(3), 60. https://doi.org/10.1007/s00271-026-01102-8
+Gao, R., Torres-Rua, A., & Alsina, M. M. (2025). A Simplified Model for California Grapevine Leaf Water Potential Mapping at the Field Scale Based on a Machine Learning Approach (v0.0.1). Zenodo. https://doi.org/10.5281/zenodo.15885590
+Gao, R., & Torres-Rua, A. (2025). Feature Extraction from the High-resolution AggieAir Images for Leaf Water Potential Estimation in California Vineyards (Initial). Zenodo. https://doi.org/10.5281/zenodo.16730652
 
 ## Citation 
 If you use this repository in your work, please consider following reference/DOIs:<br>
